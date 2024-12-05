@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on my own projects<br>👯 I’m looking to collaborate with big ideas<br><br><br><br>
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sh33hab&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
